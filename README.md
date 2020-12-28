@@ -6,4 +6,4 @@ This repository is for submitting games to be displayed in the [GDevelop website
 
 ## How to submit a game you've made?
 
-Open [an issue](https://github.com/GDevelopApp/GDevelop-website-showcase/issues/choose) and fill up all the required fields to suggest a new game to be added to the showcase. Thanks!
+Open [an issue](https://github.com/GDevelopApp/GDevelop-website-showcase/issues/new/choose) and fill up all the required fields to suggest a new game to be added to the showcase. Thanks!
