@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GDevelop Discord
+    url: https://github.community/
+    about: Discuss on the forum or on the Discord to get help with GDevelop or discuss about the website.
+  - name: GDevelop Forums
+    url: https://forum.gdevelop-app.com
+    about: You can also present your game on the forum.
